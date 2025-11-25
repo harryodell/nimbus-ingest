@@ -1,6 +1,4 @@
 # Nimbus EV Location Scoping
-
-## Overview
 This repository contains an end-to-end data pipeline designed to ingest, transform, and analyse EV charging points in Central London, built on Google Cloud Platform.
 
 ## Repository Structure
